@@ -62,7 +62,7 @@ end
 #####################################################
 
 def runner
-  # code runner here
+  # runner method runs game for user
   welcome
   score = initial_round
   until score > 21
